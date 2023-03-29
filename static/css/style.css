@@ -1,0 +1,31 @@
+*{
+    margin: ;
+    padding: ;
+}
+h1{
+    color:red;
+}
+nav{
+    background-color: aqua;
+}
+li{
+    background-color: rebeccapurple;
+    color:white;
+    padding: 10px;
+    margin: 10px;
+    font-weight: 900;
+
+}
+a{
+    color: white;
+    font-weight: 900;
+}
+img{
+    width: 200px;
+    height: 200px;
+
+}
+.gallery{
+    margin: 50px;
+    padding: 50px;
+}
