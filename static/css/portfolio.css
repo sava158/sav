@@ -1,0 +1,26 @@
+main{
+    width: 500px;
+    margin: 0 auto;
+    
+    
+}
+h1{
+    color:hotpink;
+    border-bottom: 5px dotted;
+    border-color: rebeccapurple;
+}
+h3{
+    color:silver;
+}
+ul{
+    background-color: rgb(235, 231, 226);
+    border: 3px solid;
+    border-color: rebeccapurple;
+    padding: 23px;
+}
+.email{
+    color: green;
+}
+.web{
+    color:red;
+}

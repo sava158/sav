@@ -1,0 +1,40 @@
+.container{
+   width:240px;
+   margin: auto;
+   padding: 20px;
+   margin-top: 50px;
+   
+
+}
+h1{
+    background-color: purple;
+    border: 2px solid;
+    width: 30px;
+    padding-left: 7px;
+    border-color: purple;
+    margin-left: 95px;
+    color:white;
+} 
+h3{
+    font-size: 20px;
+    padding-left:60px;
+}
+.input_box{
+    width:270px;
+    height: 40px;
+}
+.checkbox{
+    margin-left: 60px;
+}
+button{
+    background-color: blue;
+    border-color: blue;
+    width:270px;
+    height: 40px;
+    color:white;
+    border-radius: 3px;
+}
+h5{
+    display: flex;
+    justify-content: center;
+}
