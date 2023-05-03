@@ -1,0 +1,81 @@
+*{
+    margin:0;
+}
+.navbar{
+    background-color: #f1e7e5;
+    padding-top: 50px;
+    height: 700px;
+    }
+    .carrot{
+        padding-left: 50px;
+        position: absolute;
+    }
+    .basket{
+       padding-left: 700px;
+       position: absolute;
+       top:200px;
+
+    }
+    .navbar1{
+        padding-left: 900px;
+        display: flex;
+        gap: 50px;
+        padding-top: 10px;
+        
+    }
+    .top-header{
+        padding-top: 300px;
+        color:#7d9657;
+        font-size:40px;
+        padding-left: 50px;
+    }
+  .second-div{
+    display: flex;
+    gap:40px;
+    margin-top: 40px;
+  }
+  .partner{
+    background-color: #ebb376;
+    width:45%;
+    height: 150px;
+    padding-top: 30px;
+    padding-left: 40px;
+    border-radius: 10px;
+    margin-left: 30px;
+
+  }
+  .dasher{
+    background-color: #c3b3a2;
+        width: 45%;
+        height: 150px;
+        padding-top: 30px;
+        padding-left: 40px;
+        border-radius: 10px;
+        margin-right: 30px;
+  }
+  .third-div{
+    display:flex;
+    justify-content: center;
+    padding-right: 100px;
+
+  }
+  .third-div-writeup{
+    padding-top: 120px;
+    font-size: 23px;
+  }
+  .forth-div{
+    display: flex;
+    justify-content: center;
+    gap:-10px;
+    padding-left: 40px;
+    padding-top: 100px;
+  }
+  .forth-div-2ndwriteup{
+    padding-top: 110px;
+    font-size: 22px;
+  }
+    a{
+        text-decoration: none;
+        font-size: larger;
+        color: black;
+    }
