@@ -32,6 +32,12 @@ input{
 .buttons1{
     display: flex;
     gap:70px;
-    margin-left: 100px;
+    margin-left: 80px;
 
+}
+button{
+    border-radius: 10px;
+    border-color: #7ff6c2;
+    height: 40px;
+    width:90px
 }
